@@ -1,0 +1,11 @@
+Press 'S' for stoping the boat
+Press 'G' for move the boat again
+Press 'N' for bight
+Press 'D' for day
+Press '1' for star blinking 
+Press '2' for desaparing 
+Press '3' for moon
+Press '4' for desaparing
+
+Group info: Habib,Syed Ahasan 14-26302-1
+            Khan,Rubayat Shusmita 15-28790-1
